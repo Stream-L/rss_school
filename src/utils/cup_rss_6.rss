@@ -5,7 +5,12 @@
 </description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Mar 2025 04:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 15:47:23 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[关于推荐参加首届中国石油教育学会课程思政教学大赛教师名单的公示]]></title>
+            <guid isPermaLink="false">关于推荐参加首届中国石油教育学会课程思政教学大赛教师名单的公示</guid>
+            <dc:creator><![CDATA[教务处]]></dc:creator>
+        </item>
         <item>
             <title><![CDATA[关于举办第五届中国石油大学（北京）教师教学创新大赛的通知]]></title>
             <guid isPermaLink="false">关于举办第五届中国石油大学（北京）教师教学创新大赛的通知</guid>
@@ -99,11 +104,6 @@
         <item>
             <title><![CDATA[本科生参加2024-2025学年春季学期开学初补考的通知]]></title>
             <guid isPermaLink="false">本科生参加2024-2025学年春季学期开学初补考的通知</guid>
-            <dc:creator><![CDATA[教务处]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[2024-2025学年春季学期大学物理实验B（Ⅱ）未修及重修选课通知]]></title>
-            <guid isPermaLink="false">2024-2025学年春季学期大学物理实验B（Ⅱ）未修及重修选课通知</guid>
             <dc:creator><![CDATA[教务处]]></dc:creator>
         </item>
     </channel>

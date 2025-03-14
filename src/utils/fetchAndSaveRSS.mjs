@@ -11,7 +11,7 @@ const __dirname = dirname(__filename);
 
 const cup_rss = async (url) => {
   try {
-    console.log('开始获取数据:', url);
+    // console.log('开始获取数据:', url);
     const response = await axios.get(url);
     // console.log('数据获取成功');
     const data = response.data;
@@ -26,7 +26,7 @@ const cup_rss = async (url) => {
     const homedata = homeresponse.data;
     // 从homedata的<head>的<title>标签中提取部门名称
     const departName = homedata.match(/<title>(.*?)<\/title>/)[1];
-    console.log('departName:', departName);
+    // console.log('departName:', departName);
 
     const channelTitle = `中国石油大学（北京）${departName} 公告`;
     const channel = {
@@ -53,7 +53,7 @@ const cup_rss = async (url) => {
       const item = data.d[ii];
       //console.log('item:', item);
       if (!item) {
-        console.log('条目数据解析失败，item 为空');
+        //console.log('条目数据解析失败，item 为空');
         continue;
       }
       // Its value is a date, indicating when the item was published. If it's a date in the future, aggregators may choose to not display the item until that date.
@@ -89,7 +89,6 @@ const fetchAndSaveRSS = async (domain,id) => {
     const feed = await cup_rss(sourceUrl);
     feedxml = feed.xml({indent: true });
     //console.log('!!!!!RSS XML:', feedxml);
-  
     filePath = path.join(__dirname, `cup_rss_${id}.rss`);
   }
 
@@ -138,7 +137,7 @@ const fetchAndSaveRSS = async (domain,id) => {
     //console.log('description:', description);
     // 将description和followInfo拼接
     const newDescription = description + '\n' + followInfo;
-    console.log('newDescription:', newDescription);
+    // console.log('newDescription:', newDescription);
     // 将newDescription替换feedxml中的description
     feedxml = feedxml.replace(/<description>(.*?)<\/description>/, `<description>${newDescription}</description>`);    
   }

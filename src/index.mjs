@@ -14,7 +14,8 @@ const __dirname = dirname(__filename);
 
 // 基本配置
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000; // 使用环境变量设置端口
+
 
 
 // CUP 转发rss_id 从 1-36
@@ -23,25 +24,27 @@ const cupRssId = [...Array(36).keys()].map(x => x + 1);
 for (const rss_id of cupRssId) {
   fetchAndSaveRSS('cup', rss_id);
 }
+console.log('cupRss抓取完毕');
 
 // cnki 转发rss_id 列表
 // 从 src\target.txt 中获取 链接列表
 const targetList = fs.readFileSync(path.join(__dirname, 'target.txt'), 'utf8').split('\n');
 // 过滤掉空行
 const targetListFiltered = targetList.filter(x => x.trim() !== '');
-console.log('targetListFiltered:', targetListFiltered);
+//console.log('targetListFiltered:', targetListFiltered);
 // 从链接列表中获取 rss_id
 const cnkiRssId = targetListFiltered.map(x => {
 // 从链接列表中获取 rss_id
   const rss_id = new URL(x).pathname.split('/').pop();
-  console.log('rss_id:', rss_id);
+  //console.log('rss_id:', rss_id);
   return rss_id;
 })
-console.log('cnkiRssId:', cnkiRssId);
+//console.log('cnkiRssId:', cnkiRssId);
 // 启动时立即调用 fetchAndSaveRSS 函数
 for (const rss_id of cnkiRssId) {
   fetchAndSaveRSS('cnki', rss_id);
 }
+console.log('cnkiRss抓取完毕');
 
 // 设置每天12点和17点重新抓取 RSS
 cron.schedule('0 12,17 * * *', () => {
@@ -106,9 +109,6 @@ app.get('/', (req, res) => {
 
 app.get('/rss/url', async (req, res) => {
   const targeturl = req.query.url;
-  console.log('识别url targeturl:', targeturl);
-  
-
   console.log('识别url targeturl:', targeturl);
   // 解析域名
   const domain = new URL(targeturl).hostname;
@@ -195,5 +195,5 @@ app.get('/rss/cnki/:id', async (req, res) => {
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
   console.log('部署完成');
-  process.exit(0); // 返回状态码 0
+  //process.exit(0); // 返回状态码 0
 });

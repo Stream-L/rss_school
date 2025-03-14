@@ -5,7 +5,12 @@
 </description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Mar 2025 04:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 15:47:23 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[北京林业大学信息化建设与管理办公室一行来我校调研交流]]></title>
+            <guid isPermaLink="false">北京林业大学信息化建设与管理办公室一行来我校调研交流</guid>
+            <dc:creator><![CDATA[信息化管理处 信息技术中心]]></dc:creator>
+        </item>
         <item>
             <title><![CDATA[信息化管理处 信息技术中心简介]]></title>
             <guid isPermaLink="false">信息化管理处 信息技术中心简介</guid>
@@ -99,11 +104,6 @@
         <item>
             <title><![CDATA[关于9月6日凌晨校园网络全部中断的通知]]></title>
             <guid isPermaLink="false">关于9月6日凌晨校园网络全部中断的通知</guid>
-            <dc:creator><![CDATA[信息化管理处 信息技术中心]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[关于8月31日南校园地质楼断网的通知]]></title>
-            <guid isPermaLink="false">关于8月31日南校园地质楼断网的通知</guid>
             <dc:creator><![CDATA[信息化管理处 信息技术中心]]></dc:creator>
         </item>
     </channel>
