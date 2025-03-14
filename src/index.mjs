@@ -195,5 +195,10 @@ app.get('/rss/cnki/:id', async (req, res) => {
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
   console.log('部署完成');
-  //process.exit(0); // 返回状态码 0
+
+  // 设置一个 30 秒（30000 毫秒）的定时器
+  setTimeout(() => {
+    console.log('30 秒已到，服务器即将退出');
+    process.exit(0); // 返回状态码 0 并退出进程
+  }, 30000);
 });
