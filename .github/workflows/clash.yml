@@ -46,4 +46,4 @@ jobs:
 
       # 运行 index.mjs
       - name: Run index.mjs
-        run: node index.mjs
+        run: run: timeout 10s node src/index.mjs || true
