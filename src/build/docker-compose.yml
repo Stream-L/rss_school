@@ -1,15 +1,13 @@
-version: '3'
+version: '3.8'
+
 services:
   app:
-    build: ..
-    volumes:
-      - ..:/usr/src/app
-    command: npm start
-  nginx:
-    image: nginx:latest
+    build:
+      context: ../..
+      dockerfile: src/build/Dockerfile
     ports:
-      - "80:80"
+      - "3000:3000"
     volumes:
-      - ./nginx.conf:/etc/nginx/conf.d/default.conf
-    depends_on:
-      - app
+      - .:/app
+    environment:
+      NODE_ENV: production
