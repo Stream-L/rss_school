@@ -16,7 +16,7 @@ jobs:
       # 下载并安装 Clash
       - name: Install Clash
         run: |
-          wget -O clash.gz https://github.com/Dreamacro/clash/releases/download/v1.17.0/clash-linux-amd64-v1.17.0.gz
+          wget -O clash.gz https://github.com/doreamon-design/clash/releases/download/v2.0.23/clash_2.0.23_linux_amd64.tar.gz
           gunzip clash.gz
           chmod +x clash
 
