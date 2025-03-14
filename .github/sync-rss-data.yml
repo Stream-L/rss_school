@@ -23,8 +23,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run src/index.mjs
-        run: node src/index.mjs
+      - name: Run src/index.mjs with timeout
+        run: timeout 1m node src/index.mjs || true
 
       - name: Checkout target repository
         uses: actions/checkout@v3
