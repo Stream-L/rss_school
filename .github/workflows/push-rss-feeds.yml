@@ -24,7 +24,7 @@ jobs:
         run: npm install
 
       - name: Run src/index.mjs with timeout
-        run: timeout 10s node src/index.mjs || true
+        run: timeout 20s node src/index.mjs || true
 
       - name: Checkout target repository
         uses: actions/checkout@v3
