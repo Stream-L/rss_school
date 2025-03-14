@@ -13,6 +13,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # 设置 Node.js 环境
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      # 安装依赖
+      - name: Install dependencies
+        run: npm install
+
       # 下载并安装 Clash
       - name: Install Clash
         run: |
@@ -33,15 +43,6 @@ jobs:
           echo "HTTPS_PROXY=http://127.0.0.1:7890" >> $GITHUB_ENV
           echo "NO_PROXY=localhost,127.0.0.1" >> $GITHUB_ENV
 
-      # 设置 Node.js 环境
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-
-      # 安装依赖
-      - name: Install dependencies
-        run: npm install
 
       # 运行 index.mjs
       - name: Run index.mjs
