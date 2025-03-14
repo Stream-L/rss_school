@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../rssfile/rss.xsl'?>
+<rss version="2.0">
+  <channel>
+    <title>情报科学-CNKI</title>
+    <link>https://navi.cnki.net/knavi/journals/QBKX/detail?uniplatform=NZKPT</link>
+    <description>情报科学</description>
+    <language>zh-cn</language>
+    <pubDate>Fri, 14 Mar 2025 03:39:03 GMT</pubDate>
+    <generator>情报科学</generator>
+    <image>
+      <title>情报科学-CNKI</title>
+      <url>https://c61.cnki.net/CJFD/big/QBKX.jpg</url>
+      <link>https://navi.cnki.net/knavi/journals/QBKX/detail?uniplatform=NZKPT</link>
+      <width>120</width>
+      <height>166</height>
+    </image>
+    <item>
+      <title>社会化阅读情境下公众应急信息需求测度与推荐</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKf6tBJDhTjEzYrVe_-vsncVyRo3xw-uCjt6TWoLyHJHfKHfSWIBIRjHej3QaaufUVnLu8fAkSgtO0IUe6U_VTsfgn12TSKYgsnvU3d3hFyOVgN2IEwN0jldY4JmE1-WEExA_eq4-hA1V--LE1jqbucq3qpCvIXvwURhRvHfEO0sYQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】从需求和质量双维度出发，实现应急信息的社会化阅读实时推荐，旨在及时测度并响应公众信息需求，为政府危机应对提供智力支持，避免网络舆情危机。【方法/过程】采集微博平台“日本核污水排海”事件数据，挖掘主题并归纳信息需求，基于公共产品需求理论构建需求测度指标体系。依据双路径模型和应急信息特征，构建信息质量评价体系，并结合需求强度计算信息的应急贡献度，最后基于ABC分析法推荐社会化阅读内容。【...</description>
+      <pubDate>Wed, 05 Mar 2025 16:00:00 GMT</pubDate>
+      <author>安璐;梁亦欣;</author>
+      <guid>d375dd509e95414a61b96032149e148e</guid>
+    </item>
+    <item>
+      <title>国际交流下中外文献对被引作用机制与协调研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdYWxTqhfWuHWtxe8DiYswVkPJOd0e_fsqTpcnkPOBciyUMrRdAk2ZeF68pUyz8i9dum9TfP1QTkoCS092EvuhGLa3KujsZ7BxZBQIhps61lYvFf4rKUtHF9f3xg-xF_ZklZerO3OmuNovYh7WIc8r4yVfmozjjCPNAHuaH4elpiA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】科学研究是建立在充分的国内外交流和前人研究的基础上，研究国内外文献引用的作用机制和协同效应具有重要意义。【方法/过程】本文以CSSCI经济学期刊为例，在理论分析的基础上，充分利用面板数据模型和面板门槛模型，研究了中文参考文献与外文参考文献对影响因子的贡献、协调关系以及非线性特征。【结果/结论】研究结果表明：中国经济学研究已进入成熟期；中文参考文献对影响因子的贡献总体上大于外文参考文献...</description>
+      <pubDate>Wed, 19 Feb 2025 16:00:00 GMT</pubDate>
+      <author>张哲;麦影虹;方晶;</author>
+      <guid>5e57dde45dd96983634652a723eaf653</guid>
+    </item>
+    <item>
+      <title>基于深度学习的社交媒体预警情报挖掘系统研究与实现</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdYWxTqhfWuHWtxe8DiYswVkPJOd0e_fsqTpcnkPOBci0CfDTmclifvLuN3kEu8J3VRVikNBCgWpy6JB72_yCTB7Owe5m1c_tFVosfHi8aqTgw2GnLSDpP-DsWaWVpCFI810ryhul-GQad8cZz0WIJ_BZ5vWsPulKatox5k-O5YvQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】社交媒体中蕴含大量预警情报，但其杂乱无序的数据使情报挖掘具有挑战。智能技术的应用为社交媒体挖掘预警情报提供了可能。【过程/方法】本文构建一套基于深度学习的社交媒体预警情报挖掘系统，通过多源异构数据采集、文本特征建模、事件检测识别、情感计算、传播预测等技术实现对社交媒体中预警情报的智能化挖掘。【结果/结论】研究验证了所构建系统的有效性，智能技术可以赋能社交媒体预警情报的主动发现和利用，...</description>
+      <pubDate>Mon, 20 Jan 2025 16:00:00 GMT</pubDate>
+      <author>胡智鹏;刘颖;王静茹;</author>
+      <guid>3345604fd888800cc6db481ac1e016d1</guid>
+    </item>
+    <item>
+      <title>基于句子生成模型的跨学科学术创新机会发现研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdwArWhw9FUZbIlU6jpx5TdoOh-thH69LbStqBIshfVcY0awm6YYdufQAG_R4xqCfsvUcWWGMRmfSzlj3bQP0lfcZ2US8DXd0TsY3qrpKu4zsgH9VZS4bmJQBGYmIpWsAcXl57Tds9-SAWL--44TZgi8myz8f-NmRSYBUXiMPJhZQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】学术创新机会发现是确定创新方向和引领创新发展的重要途径，基于句子生成模型发现学术创新机会，能够促进学术创新机会发现的智能化发展，推动科研创新。【方法/过程】以管理学为源学科，情报学为目标学科，首先对管理学核心期刊（CSSCI）中的文献聚类，以各类团的主题词为句子起点，利用情报学语料训练GPT-2模型生成句子。设计创新贡献度指标，计算生成句的创新贡献度得分，将创新贡献度得分最高的句子视...</description>
+      <pubDate>Mon, 20 Jan 2025 16:00:00 GMT</pubDate>
+      <author>尹晓甜;李秀霞;李文;</author>
+      <guid>61f5a0726544e3a46d9e147b792c780d</guid>
+    </item>
+    <item>
+      <title>专利离群程度演变视角的高价值专利评估研究——以新能源汽车领域为例</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKfS7nVdP5eW93Hlgwvrhg_ouZCUJ4NUBnmI-jBpcgkXjkqBXwhwq5oOAgZLRQm96YS91uTW-DRaTGAeC0XI98FMwkBNFlYUyuJao9cyxX_UgbBEplhFvSbcUWfd7_oyZQJuEbU1zrP8k7ZpiGEAS7POn5BGuwuqwJQ64a7y-x2NrQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】从专利离群程度演变视角构建高价值专利筛选与评估方法，以实现高效智能的高价值专利评估，助力新质生产力发展。【方法/过程】首先利用BERT模型向量化专利摘要，以解决一词多义问题；其次，通过相关离群因子检测算法得出专利离群程度逐年变化情况，筛选出离群专利和主流专利，提高检测准确率；然后通过专利价值指标体系筛选出具有高价值的专利集合；最后通过BERTopic模型综合分析具有创新性的高价值专利...</description>
+      <pubDate>Sun, 19 Jan 2025 16:00:00 GMT</pubDate>
+      <author>丁敬达;汤迎涛;邱均平;</author>
+      <guid>685cd5b77131d519f9477006d800eb5a</guid>
+    </item>
+    <item>
+      <title>政策工具视角下我国档案法规政策体系化建设探究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKfS7nVdP5eW93Hlgwvrhg_ouZCUJ4NUBnmI-jBpcgkXjkqBXwhwq5oOEIcp_RehKWkGYnjBNB3hHUXrJftD45RXqEjbVcuyuDsrI2K251iy5nyQ6Ev3pLK_JgijiZjpGJVFhdwGuPIIpi9nLyARln-TE30fjnGEUAu4f9OryMQKjg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】档案法规政策是我国档案现代化治理进程的直观记录，也是各项档案业务有序开展的制度依据和效力保障。政策工具分析能够科学梳理我国档案法规政策体系化建设的过程与现状。【方法/过程】本文对我国现行1109份中央层级档案法规政策文件开展全面搜集与科学量化分析，利用政策工具自动分类大模型，自动编码识别得到14 483条政策工具使用记录，解析各类政策工具的使用情况，并基于国际通用政策工具分类框架开展...</description>
+      <pubDate>Sun, 19 Jan 2025 16:00:00 GMT</pubDate>
+      <author>霍朝光;张佳慧;李欣茹;祁天娇;</author>
+      <guid>5253e08c12f03dc441657572bf4e7a05</guid>
+    </item>
+    <item>
+      <title>整体性治理视域下公共数据分类分级的治理框架与实现路径</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdqpLCKCB67kVyJ9CMdXatH7YpwPYvh58xKZapFpKkhOA29eQjoMkqMdXHuaQpUR1n2Hmy8nQxXIqLQOPWqjh-TkuxMkyzhOVoqNOnuoOqgA89aCwzyvfJ9j2e4gaRpmFd2o0wBiX7Jqk1vxujUiKfmCzFZScOafFCXHCXEGjB2pw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>[目的/意义]公共数据分类分级是完善数据要素市场体系的前提，对于切实推进数据安全保障、发展利用和有序流动具有重要意义，但公共数据分类分级的治理框架与实现路径还需探索。[方法/过程]通过系统性文献研究和行业领域相关政策文本分析，借鉴整体性治理理论，构建公共数据分类分级的治理框架。[结果/结论]整体性治理视域下，公共数据分类分级面临统筹好开放共享与安全保护之间关系、顶层设计与基层探索之间关系、风险防控...</description>
+      <pubDate>Sun, 29 Dec 2024 16:00:00 GMT</pubDate>
+      <author>刘崇瑞;</author>
+      <guid>3ceaf87837cd6dcab6752ed989dddabe</guid>
+    </item>
+    <item>
+      <title>融合fsQCA和时变分析的社交媒体突发公共卫生事件辟谣效果提升路径研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdqpLCKCB67kVyJ9CMdXatH7YpwPYvh58xKZapFpKkhOA29eQjoMkqMVYeTZ_0XOeIIraYtDHY_8_3BhbqCaklGTVAwVwIrDeVGPwofO-G6Pqt9M0JGEMfg_RXJvK6qwnSzOmO7l512gAmuEfRk1ko1P88MsDiX2pQl0YrcM6S45g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】突发公共卫生事件的发展与谣言传播相互交织，为网络安全和社会稳定带来了挑战，有必要探究辟谣效果随突发公共卫生事件发展的时变趋势和最优提升路径。【方法/过程】以新冠疫情辟谣微博为例，根据“流行三原则”得到10个影响辟谣效果指数（Rumor Refutation Effectiveness Index， REI）的初始条件；为减少条件冗余，基于集成算法提取出5个影响REI的核心条件并使用S...</description>
+      <pubDate>Sun, 29 Dec 2024 16:00:00 GMT</pubDate>
+      <author>李宗敏;张曼;赵晔;</author>
+      <guid>6a6c1a5ce2cb5d5255299d21060b6bd3</guid>
+    </item>
+    <item>
+      <title>系统三基元视角下农民数字素养培育策略研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKcxaEDvGGM5V2lxBZJkPTXZFuGeEs9bzUhBv5qyRz_i59guKJCcvtRuB-PdWK-zbZ1lzZaNbntI9pddq6CqNKDKkNT40Be_9iTWOYeEcheO-TA-wA9zhVt_Pp_nLI4icdBJiIV3YG5VQ3MGdEOPZ6UgaapCL3cOFhqF-ej1T0OOVg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】数字乡村建设是数字时代推进乡村全面振兴的必然要求，而农民数字素养是数字乡村建设的基石，只有加快培育适应数字乡村建设需求的农民数字素养，才能以高质量发展推进乡村全面振兴。【方法/过程】基于“物质、能量和信息”系统三基元构建了培育农民数字素养分析框架，并总结了培育农民数字素养面临物质基础“支撑”不完备、能量资源“驱动”不充足、信息要素“追踪”不到位的系统困境。【结果/结论】“物质、能量和...</description>
+      <pubDate>Thu, 26 Dec 2024 16:00:00 GMT</pubDate>
+      <author>赵聪;</author>
+      <guid>16611ea3e3321cdb51b7ce5c56bf8f24</guid>
+    </item>
+    <item>
+      <title>学术评价学科属性与体系建构研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKe6rvoJixFGWaT7isnWIsV3J-xf_FFxbe5FnFITxPM16cWhl40eId8yST8mIJBJ5lgd6QI9Gop07PWdg5lQRm0EAHEQKLoXvwH1OVCNPMqhxqpshkog9noLMIrErhU284gsT-d38SBf0Qm8b_Zlj9D_eIh_fNUxB_Fgr3S74OzYng==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】学术评价作为一个重要的研究领域，其学科属性与体系建构缺乏研究。【方法/过程】在理论分析的基础上，对学术评价学的定位、学科属性、学科结构、体系建构等进行了深入分析。【结果/结论】学术评价学是情报学下面的三级学科；不能将学术评价等同于科技评价；学术评价学是在“五计学”基础上的拓展；学术评价学的发展具有丰富的交叉学科研究土壤。最后提出如下政策建议：加强学术评价的理论研究；办好学术评价期刊；...</description>
+      <pubDate>Thu, 26 Dec 2024 16:00:00 GMT</pubDate>
+      <author>俞立平;杜维;梦非;姜茸;</author>
+      <guid>c3cbf8da3207e44b8e268786e1a8820f</guid>
+    </item>
+    <item>
+      <title>ChatGPT大语言模型的评论情感分类预测与主题识别研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKe6rvoJixFGWaT7isnWIsV3J-xf_FFxbe5FnFITxPM16cWhl40eId8yRcbM8yv6r3HIL_UtM0DJcHNPT6po4OeaH5VshJdPybvENseYk6Pb-5V1cken_Hgome0m_QFCdehbyBE2wK6VfrGlD0CWqrYSEJ-X-Q6zWBkAECz0RoWWAQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】探究大众对于ChatGPT大语言模型的情感和主要关注点，有助于人工智能企业推进AIGC技术的开发，可为政府制定相应技术监管策略提供建议。【方法/过程】爬取微博数据并进行预处理后，构建Bert模型进行情感分类，并结合LDA主题聚类及ARIMA时间序列模型，揭示公众对ChatGPT大语言模型的关注焦点和态度倾向，预测用户评论情感走向。【结果/结论】大众对以ChatGPT为代表的大语言模型...</description>
+      <pubDate>Thu, 26 Dec 2024 16:00:00 GMT</pubDate>
+      <author>朱益平;慕钰;孙逸宁;</author>
+      <guid>63c5cc0b90d82bb2711fff4076548252</guid>
+    </item>
+    <item>
+      <title>基于关键词扩展与Prompt-BERT-RCNN模型的医疗问答社区短文本分类</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKd8sECBvOh4_6sRhecAHPSejeWOMn10tWINTOFfRSC_zMl8YAypjYb-wYeRftEBrNeLGHkFZBaH663uVa5XWYjswpdnuSBS9LD3jDLvLgA3Dkmb-tNkG_HM8S8j_HEkIG072Vlse1A_F3qufZuScWbidq9dgQYZFiKWN1TMLyCnKQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】在医疗问答社区中实现短文本的自动分类对于提高其服务效率和改善用户体验至关重要。通过构建一个结合关键词扩展技术和深度学习模型的短文本分类方法，以解决短文本分类中的特征稀疏和语义不明确问题。【方法/过程】首先运用网络爬虫获取医疗问答社区“寻医问药网”的用户问题短文本；然后利用TF-IWF加权关键词重要性，并通过FastText计算关键词相似度来扩展短文本特征；接着将提示学习与深度学习模型...</description>
+      <pubDate>Thu, 26 Dec 2024 16:00:00 GMT</pubDate>
+      <author>臧志栋;汤祖懿;秦振凯;程结晶;</author>
+      <guid>8d6de2b07105c20ca8f1420a9169625a</guid>
+    </item>
+    <item>
+      <title>面向突发公共卫生事件的跨学科科研合作网络特征及其启示</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKd8sECBvOh4_6sRhecAHPSejeWOMn10tWINTOFfRSC_zMl8YAypjYb-TRHLiXJQymcMkeyJ4V-9v9vlswzTNtvYIuxYj1QT7NXvI_I44GaeUeoEczLuhLTrJDsyJzhvnQDlOy82ItQRbc7ppD8zp85bmKdPojiFWAKfSbbUuWxYlQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】跨学科科研合作是促进突发公共卫生事件科研攻关的重要方式，对合作网络现状与特征进行挖掘，有助于明晰不同学科的角色与合作模式，发现目前合作网络的不足，为未来面向突发公共卫生事件的跨学科科研合作网络优化提供参考。【方法/过程】以新冠疫情为例，从Web of Science数据库采集相关文献数据，对论文合作者所属学科进行标注，构建跨学科合作关联矩阵，以学科为节点，通过社会网络分析方法构建整体...</description>
+      <pubDate>Thu, 26 Dec 2024 16:00:00 GMT</pubDate>
+      <author>曾粤亮;高顺;曹高辉;</author>
+      <guid>85bdc7c0ba68d48127719e8b307fc389</guid>
+    </item>
+    <item>
+      <title>基于DEMATEL-ISM的老年数字鸿沟关键影响因素及其作用路径研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdDw1wQ_dTTHk4Otiih1chbkSYSouSNvCZuH8Jwx_D54Pu7_-FoRh-tb3Gs5GSHwocA9c_09hlj5aNhtPFkAhbk-P5cREf1b_cwxg_Pv7yffUi7fGBqhlW9UTQug4TX5xY_lgabenujGhInkRPmBRd9mUMUJbLzJTZSXXrBgKGIYw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】探究老年数字鸿沟的关键影响因素及其作用路径，有利于帮助老年群体及社会找到缓和或解决老年数字鸿沟的有效方法。【方法/过程】通过文献调查法构建老年数字鸿沟影响因素体系，使用DEMATEL方法识别老年数字鸿沟关键影响因素，并采用ISM方法进一步探讨老年数字鸿沟影响因素的层级关系及作用路径。【结果/结论】基于DEMATEL-ISM模型得到10项老年数字鸿沟关键影响因素，其中造成老年数字鸿沟的...</description>
+      <pubDate>Thu, 26 Dec 2024 16:00:00 GMT</pubDate>
+      <author>李青维;马琳;张炎培;赵雪芹;</author>
+      <guid>2c98c9caa71e977b82d0c70735003b45</guid>
+    </item>
+    <item>
+      <title>基于模糊认知图的在线健康社区用户生成内容知识聚合研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdDw1wQ_dTTHk4Otiih1chbkSYSouSNvCZuH8Jwx_D54Pu7_-FoRh-tvksj6LQ9NsIgrr4azHt8JoA85_Cw0NfaaiLiuo8rarWxNsikpySI8BCVNVy2YFQt6o06IdzFQV54ZC5h7GPe5cWrHwT4LjJGKyWGWruGA8Ry-7mUjCBE1A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>[目的/意义]探讨基于模糊认知图的在线健康社区用户生成内容知识聚合方式，探索模糊认知图应用的新领域，提升在线健康社区用户生成内容知识资源的利用效率，为在线健康社区知识聚合提供参考。[方法/过程]通过采集“好大夫在线”在线健康社区的用户生成内容，结合模糊认知图的优势，运用person相似度计算、Apriori算法和模糊认知图推理方法，挖掘高血压相关关联规则并实现模糊认知图的构建与推理，旨在聚合在线健...</description>
+      <pubDate>Thu, 26 Dec 2024 16:00:00 GMT</pubDate>
+      <author>张艳丰;赵资澧;方明;胡锡晟;</author>
+      <guid>e1a95035fce6f230f0b41ed82dd713d3</guid>
+    </item>
+    <item>
+      <title>面向深度伪装敏感信息暴露的暗数据反隐写模型构建及应用实证</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKcHnIU6nvFccf9daBLFxQ8-VdWARDFfKkfg3LgL8e4fUCYKOTJaTyMZXchbP_YhiVxVmgdTz0iLW9u2EA0ODLg4IVgtr08OL0771_ChLmom876-gmRv1xp6k4C4TUQUnpNgMVCZhgKJUzD9UgcNS15Y4v4sD86OyqalOg3VoXduXA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】敏感信息正随时代发展往自动化生成与深度伪装方面倾斜，使传统方法难以发挥检测成效，应对其暴露工作重新引起重视。【方法/过程】从暗数据介入与反隐写干预思路下构建应对模型，在确定实施过程、应用思路与目标基础前提下取得暴露方法，以便对信息本体、类型及特征进行外部表示。为检验应用价值依托现实案例开展实证。【结果/结论】实证结果表明，模型能够对识别到的高作用高破坏力IX型深度伪装敏感信息环境、载...</description>
+      <pubDate>Thu, 26 Dec 2024 16:00:00 GMT</pubDate>
+      <author>周林兴;王帅;苏君华;</author>
+      <guid>dc24227d4a08c2aa0db8965a455fa418</guid>
+    </item>
+    <item>
+      <title>跨学科知识元创新组合识别与学术创新机会发现研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKcHnIU6nvFccf9daBLFxQ8-VdWARDFfKkfg3LgL8e4fUCYKOTJaTyMZQ41SfHgeWp95FRgy8im4Q1XKYMYBuT7SauilexFruz0YuDMX7oUd9oqy03pk87looMgxWbk-Nf8VZaTRkeB1jA-JBm-zykdVbl5SjVodeNq9jUcXgu2_aw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】学术创新机会发现是科研人员开展学术研究的前提，从跨学科知识元组合的角度发现学术创新机会，不仅拓宽了跨学科研究的视角，而且能为研究人员开展规范化的创新研究提供解决方案。【方法/过程】首先，结合规则匹配和主题提取方法抽取目标学科与源学科学术论文中的问题、方法知识元，建立学科内的“问题-方法”共现关系。结合共现关系和语义相似度计算，实现跨学科方法知识元的迁移。设计新颖性、融合度、重要性等跨...</description>
+      <pubDate>Thu, 26 Dec 2024 16:00:00 GMT</pubDate>
+      <author>李秀霞;庞瑞欣;</author>
+      <guid>90a1b63dae00798616f604a57e1e7139</guid>
+    </item>
+    <item>
+      <title>我国公共数字文化服务均衡性效应研究：融合政策工具与VAR模型的实证分析</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKew-l0zytmBT-wW285-1iJg8zb8YDV1eMLWStz3vjpXvYrOxAO4Tp9cmk4uY-8v_cu97TWbN0MaeE46OFsjrkiWspieSmRzaoJCUbonZziDDDtDtpH7c3HRIC9WRdJ62Xp_23mjBJ5_PXERmO3mx2gnbKACqmXSO0knEV75_e_FMg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>［目的/意义］探析政策工具对我国公共数字文化服务均衡性发展的时序效应，为我国公共数字文化服务政策体系的高质量建设与全面均衡发展提供参考。［方法/过程］收集整理各项时序指标数据并构建相应的评价指标体系，结合2011—2022年我国公共数字文化服务政策文本，以政策工具词频为解释变量、均衡性指数为被解释变量，构建向量自回归模型并进行实证分析。［结果/结论］研究表明：我国公共数字文化服务均衡性发展受到3类...</description>
+      <pubDate>Thu, 26 Dec 2024 16:00:00 GMT</pubDate>
+      <author>彭丽徽;顾般若;洪闯;</author>
+      <guid>f006319391ef5c14c95802b0d68f8510</guid>
+    </item>
+    <item>
+      <title>基于信息生态理论的公共数据安全治理政策研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKew-l0zytmBT-wW285-1iJg8zb8YDV1eMLWStz3vjpXvYrOxAO4Tp9cGDNFY0XbGZUKQEU8iBUOl8_ntIlt6JS2GPZnTNArTb3G7FCnzOWferSJYrExbMZdYhURGYIwQYmuPOpa38cEsR5gzluxKp5jFYbxmUrqzwgg7fFIfZYesg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>[目的/意义]数据安全治理深度赋能新质生产力的培育，其政策导向研究将为保障国家安全提供路径借鉴。[方法/过程]基于信息生态理论搭建“环境-主体-本体”的研究框架，透视现有公共数据安全环境及政策困境。运用政策文本立体交叉量化分析和案例检验，精进治理政策。[结果/结论]通过强化数据安全风险监测预警体系政策供给力、高水平完善安全体制机制和政策体系、整体性协同推进安全韧性治理等方式提升防范公共数据风险隐患...</description>
+      <pubDate>Sun, 22 Dec 2024 16:00:00 GMT</pubDate>
+      <author>胡玥;周凯;马文艺;陈婷;</author>
+      <guid>8032be4ff35add55c686135cedeeef8a</guid>
+    </item>
+    <item>
+      <title>老年人数字包容政策特征及主题演化分析</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKev6yYAr5rIXVQn8ZoOkYndiWQ4zxCT19wSJSnPdOegcxCURNYfeftLk4fx7FovgR62MXC_F0_xaH_tnVeks_f7psRlYEqillJ2bQyGUapOEpiwX2whBG8dEN1VjFxnFOL7MSRfWSx8ULFcasQKhFrNz7yZwaZjKFEOZ4Qhwrnm9A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>【目的/意义】老年人在数字时代面临着技术接入和使用障碍的问题，无法充分享受数字化服务，因此实现老年人群数字包容是实现积极老龄化和数字中国战略的关键目标和迫切挑战。分析现有的老年人数字包容政策特征及主题演化路径能够为政策的完善提供参考依据。【方法/过程】利用Python文本挖掘技术，基于LDA模型及DTM模型分析老年人数字包容政策特征与主题演化趋势，揭示政策运行效果。【结果/结论】当前中国老年人数字...</description>
+      <pubDate>Wed, 18 Dec 2024 16:00:00 GMT</pubDate>
+      <author>陈丹;杨洋;景涛;刘梦凡;彭楸;</author>
+      <guid>090869a1fd2189f7f5d2a9e59d36f659</guid>
+    </item>
+  </channel>
+</rss>

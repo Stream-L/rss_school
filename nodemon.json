@@ -1,0 +1,8 @@
+{
+  "watch": [
+    "src/**/*.mjs",
+    "src/utils/**/*.mjs"
+  ],
+  "ext": "mjs",
+  "exec": "node src/index.mjs"
+}

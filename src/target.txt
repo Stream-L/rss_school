@@ -1,0 +1,16 @@
+https://rss.cnki.net/knavi/rss/QBXB?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/TSQB?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/XDTQ?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/BOOK?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/TSQB?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/TSQC?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/RJXB?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/LSGL?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/QBXB?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/QBLL?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/QBKX?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/QBLL?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/XDQB?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/JSJX?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/JSJX?pcode=CJFD,CCJD
+https://rss.cnki.net/knavi/rss/RJXB?pcode=CJFD,CCJD
