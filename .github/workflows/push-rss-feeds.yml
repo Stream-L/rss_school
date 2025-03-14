@@ -23,8 +23,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run src/index.mjs
-        run: node src/index.mjs
+      - name: Run src/index.mjs with timeout
+        run: timeout 10s node src/index.mjs || true
 
       - name: Checkout target repository
         uses: actions/checkout@v3
@@ -36,7 +36,6 @@ jobs:
 
       - name: Copy RSS files to target repository
         run: |
-          cp src/utils/*.xml target-repo/feeds/
           cp src/utils/*.rss target-repo/feeds/
 
       - name: Commit and push changes
