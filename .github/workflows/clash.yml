@@ -23,7 +23,7 @@ jobs:
       # 启动 Clash 服务
       - name: Start Clash
         run: |
-          ./clash -f clash_config/config.yaml &
+          ./clash -f clash_config.yaml &
           sleep 10  # 等待 Clash 启动
 
       # 设置代理环境变量
