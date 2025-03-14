@@ -8,9 +8,6 @@ import { dirname } from 'path';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const DepartDict = {
-  '21': '校主页'
-};
 
 const cup_rss = async (url) => {
   try {
@@ -35,7 +32,7 @@ const cup_rss = async (url) => {
     const channel = {
       title: channelTitle,
       link: sourceUrl,
-      description: 'feedId:69655917993455684+userId:121829151542567936',
+      description: '',
     };
 
     //sourcelink search?p=1&rss_id=21 >>> homelink index?rss_id=21    
@@ -46,7 +43,7 @@ const cup_rss = async (url) => {
       encoding: 'UTF-8',
       title: channelTitle,
       link: homelink,
-      description: 'feedId:69655917993455684+userId:121829151542567936',
+      description: '',
     })
 
     for (let i = 0; i < 20; i++) {
@@ -108,6 +105,7 @@ const fetchAndSaveRSS = async (domain,id) => {
       console.error('数据不是xml格式');
       return;
     }
+
     // 将数据写入文件
     feedxml = data;
     console.log('data:', data);
@@ -130,6 +128,21 @@ const fetchAndSaveRSS = async (domain,id) => {
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
   }
+  // 根据follow.csv文件中的file,followInfo,对file的channel description 追加 followInfo
+  const followInfo = fs.readFileSync(path.join(__dirname, 'follow.csv'), 'utf8').split('\n').filter(x => x.trim() !== '').map(x => x.split(',')[1]).join('\n');
+  console.log('followInfo:', followInfo);
+  // 如果文件名存在于follow.csv中，将followInfo追加到description中
+  if (fs.existsSync(filePath)) {
+      // 从feedxml中提取description
+    const description = feedxml.match(/<description>(.*?)<\/description>/)[1];
+    console.log('description:', description);
+    // 将description和followInfo拼接
+    const newDescription = description + '\n' + followInfo;
+    console.log('newDescription:', newDescription);
+    // 将newDescription替换feedxml中的description
+    feedxml = feedxml.replace(/<description>(.*?)<\/description>/, `<description>${newDescription}</description>`);    
+  }
+
   //保存文件，编码为utf-8
   fs.writeFileSync(filePath, feedxml, 'utf-8');
   console.log('RSS XML file saved:', filePath);
