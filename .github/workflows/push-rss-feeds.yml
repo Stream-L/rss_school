@@ -31,7 +31,7 @@ jobs:
         with:
           repository: Stream-L/rss_publisher
           ref: main
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TARGET_REPO_TOKEN }}
           path: target-repo
 
       - name: Copy RSS files to target repository
