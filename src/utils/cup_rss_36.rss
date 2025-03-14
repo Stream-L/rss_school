@@ -5,7 +5,12 @@
 </description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Mar 2025 03:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 04:23:49 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[马克思主义学院师生党支部观看电影《您的声音》]]></title>
+            <guid isPermaLink="false">马克思主义学院师生党支部观看电影《您的声音》</guid>
+            <dc:creator><![CDATA[马克思主义学院]]></dc:creator>
+        </item>
         <item>
             <title><![CDATA[马克思主义学院党委深入学习政府工作报告，共话教育强国建设新使命]]></title>
             <guid isPermaLink="false">马克思主义学院党委深入学习政府工作报告，共话教育强国建设新使命</guid>
@@ -101,11 +106,6 @@
         <item>
             <title><![CDATA[关于拟同意陈在天等1名同志转为中共正式党员的公示]]></title>
             <guid isPermaLink="false">关于拟同意陈在天等1名同志转为中共正式党员的公示</guid>
-            <dc:creator><![CDATA[马克思主义学院]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[中石大马克思主义学院举行考研慰问活动]]></title>
-            <guid isPermaLink="false">中石大马克思主义学院举行考研慰问活动</guid>
             <dc:creator><![CDATA[马克思主义学院]]></dc:creator>
         </item>
     </channel>

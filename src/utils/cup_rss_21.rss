@@ -5,7 +5,12 @@
 </description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Mar 2025 03:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 04:23:49 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[中国政法大学党委书记姜泽廷一行来校走访交流]]></title>
+            <guid isPermaLink="false">中国政法大学党委书记姜泽廷一行来校走访交流</guid>
+            <dc:creator><![CDATA[校主页]]></dc:creator>
+        </item>
         <item>
             <title><![CDATA[阿巴斯·费若扎巴迪院士蟒山讲坛第四十期开讲二氧化碳封存与地热资源开发的数值模拟研究]]></title>
             <guid isPermaLink="false">阿巴斯·费若扎巴迪院士蟒山讲坛第四十期开讲二氧化碳封存与地热资源开发的数值模拟研究</guid>
@@ -99,11 +104,6 @@
         <item>
             <title><![CDATA[党委书记王同奇赴辽宁考察调研]]></title>
             <guid isPermaLink="false">党委书记王同奇赴辽宁考察调研</guid>
-            <dc:creator><![CDATA[校主页]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[【中国青年报】优质本科扩容 重心在“优”]]></title>
-            <guid isPermaLink="false">【中国青年报】优质本科扩容 重心在“优”</guid>
             <dc:creator><![CDATA[校主页]]></dc:creator>
         </item>
     </channel>

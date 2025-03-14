@@ -7,7 +7,7 @@
     <description>软件学报
 </description>
     <language>zh-cn</language>
-    <pubDate>Fri, 14 Mar 2025 03:56:59 GMT</pubDate>
+    <pubDate>Fri, 14 Mar 2025 04:23:54 GMT</pubDate>
     <generator>软件学报</generator>
     <image>
       <title>软件学报-CNKI</title>
@@ -18,7 +18,7 @@
     </image>
     <item>
       <title>基于大语言模型的多智能体协作代码评审人推荐</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdt0Fh682_lP55do5PgsWU9_kJyhF2LwNKPX-y4sXvobrxoT-oFw2u7sox6iZiYuTrrE5aFzXQEH5aGwlIjqu0hOr8FrhYZtnL9upGdBapetjh7u6CLV7eYDIeVz2yFGGbqgm4s2_0YqFZE7PA66fg8QCxe_gDsMzs86TCGDq8IDQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKf78Iy39ZNtSEAmqNIEovK_VfOr8He8gcbbXH3VchddgH3MhDcJO0nq0bj486M4CcUWE8LYJbxodcc3ttsSmu8tqqG4G6tCGZs7cfMwJvp9L-Uv6QNDuQpl0wwduZirzG765ev1o1eQb2r_33NJLI-REN-FisHKQdzVAJHfJdDTdw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>基于拉取请求(pull request, PR)的软件开发机制是开源软件中的重要实践.合适的代码评审人能够通过代码审查帮助贡献者及时发现PR中的潜在错误,为持续开发和集成过程提供质量保障.然而,代码变更内容的复杂性以及评审行为固有的多样性增加了评审人推荐的难度.现有方法主要聚焦于从PR中挖掘变更代码的语义信息,或基于审查历史构建评审人画像,并通过多种静态策略组合进行推荐.这些研究受限于模型训练语料...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>王路桥;周洋涛;李青山;王铭康;徐子轩;崔笛;王璐;罗懿行;</author>
@@ -26,7 +26,7 @@
     </item>
     <item>
       <title>安卓恶意软件对抗样本攻击技术综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKeNqAvPRoU8zMQGnxezWLqdIoZnx0MmTRXC61F3gYYlMumIsZYy4mVz4TD9jGnHm0PCHKjGNzORjwkEjLvsd3j5S6rxxZYNWFJ6V17_LopkhW1i7wPL0bWwh_z8kximhxNe4U08xZmQw6jZtAUjmpHShYOmcAMUCtwHHT2pYGlE_g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKcc9HHmhH64fAO0e8WeQUqELdE-mBZkUjT979atWlX-52K37m5SG6R_9Ga7tsFWZos6aowYvWop_7Sg0aR24wgDjzieE_XItZq2RKbOMKqD3hzBuHNAS7U7o5be30XT4FBse9QE7zM8YMGPZGrqy-P4xI51vWKW1GUgwEmnvaOxhA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>面对Android恶意软件带来的严重的安全风险,如何有效检测Android恶意软件已成为工业界与学术界共同关注的焦点.然而随着Android对抗样本技术的出现,现有的恶意软件检测系统面临着前所未有的挑战.Android恶意软件对抗样本攻击通过对恶意软件的源码或特征进行扰动,使其在保持原始功能不受影响的条件下绕过恶意软件检测模型.尽管目前已有大量针对恶意软件的对抗样本攻击研究,但是现阶段仍缺乏针对A...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>李珩;吴棒;龚柱;高翠莹;袁巍;罗夏朴;</author>
@@ -34,7 +34,7 @@
     </item>
     <item>
       <title>大模型生成代码的开源许可证违规风险洞察与分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKeNqAvPRoU8zMQGnxezWLqdIoZnx0MmTRXC61F3gYYlMumIsZYy4mVzUnqs3BqAouUkH_FsPJWJVbcuguPlF0WSHpYpx1Hb0PH4A9ZezFOeSXs8Lcdwe9cAl9wwZTQlH6cPXWuDNhFxqrG8CvLB0dubzEkD9blYnPcz2xEnrVeCKQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKcc9HHmhH64fAO0e8WeQUqELdE-mBZkUjT979atWlX-52K37m5SG6R_H8ovt_t6-Mn6nareTHVYshr4E30aEk_yLldN7ezj_qPm3UDajccmk-aRJHy2MTjCF-vGf9jYS6x3ZhsKuya87W6RWKLDEjjkZEQmeCc8OrFkImVhja_ybg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>大型语言模型的快速发展极大地影响了软件工程领域.这些模型利用大量开源仓库代码进行预训练,能够高效完成诸如代码生成和代码补全等任务.然而,开源软件仓库中存在大量受开源许可证约束的代码,这给大模型带来了潜在的开源许可证违规风险.聚焦于大模型生成代码与开源仓库的许可证违规风险,基于代码克隆技术开发一个支持大模型生成代码溯源与版权违规问题的检测框架.针对9个主流代码大模型生成的135 000个Python...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>王毅博;王莹;余跃;许畅;于海;朱志良;</author>
@@ -42,7 +42,7 @@
     </item>
     <item>
       <title>浮点时序数据压缩综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKeaIS6UutbFQZCG6-ikXFo6V8LtykLxNGQz3QFFn0EjEA0ul5k4kB3Dz3VRGBzIxBWukDqTVgYJZDMg1ZChXNiAaw5FD_DH9TPE6O6OMWV03O3ant4IbbGgUMP27eNBA2CdyaVY7gPLEoR4-gXxR7XtM7UT8nbfxDH8lJbU_Z4RSg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKcup09K3PFYTWHkI5Tx2qp3OMwcX_bY2JuoA6kRtJfDro_SwNFyZdRW6OU8paeJpTb8HI_9pUbj7zt1qBo4NtAkd6E40bBCeJ47V35DJlcrfdcbk8_Er4UJTvjJSU-04HCf8l8Y2TD6NI4ojAbllX_fQRmSlWWF20vcyPKOSniWWA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>物联网技术的发展产生了海量的浮点时序数据,这给数据存储和传输带来了巨大挑战.为此,浮点时序数据压缩变得至关重要,其按数据可逆性分为有损压缩和无损压缩.有损压缩方法通过舍弃部分数据信息以实现较好的压缩率,适用于对精确性要求较低的应用.无损压缩方法在减小数据大小的同时保留了所有数据信息,这对于需要保持数据完整性和准确性的应用至关重要.此外为满足边缘设备的实时监控需求,流式压缩算法应运而生.当前时序压缩...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>朱明辉;李政;李瑞远;陈超;郑宇;</author>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>大语言模型在代码优化任务中的能力探究及改进方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKeaIS6UutbFQZCG6-ikXFo6V8LtykLxNGQz3QFFn0EjEA0ul5k4kB3DlHOTiYLYNEdTfYbjUrPt3IXRbjT8VaiVBEXr1Qe2sR9YWp0x-dkIWKHb5nrgUG1kUnKEdLRCQ1MYgEFZhcFKfNaFQpiQRscMgX4tUSaP0fFQoqjvW-5NRA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKcup09K3PFYTWHkI5Tx2qp3OMwcX_bY2JuoA6kRtJfDro_SwNFyZdRWbEaBj_d17PUm3oS8N3oJhK8D5yOEUbhi38Wg3o2t7qRvtrK1VZDYlP3DzM0QeV9f5g8Too2b_kh_8B2P8lCD3qumHb_Rmn6IW9qTV_gn2kchXuaI_zGRzQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>代码优化任务作为自动化代码审查的关键环节,有助于提高开发效率和代码质量.随着大语言模型在软件工程领域中展现出远胜于传统小规模预训练模型的性能,旨在探讨两类模型在自动代码优化任务的表现,以评估大语言模型的综合优势.通过使用传统代码质量评估指标(例如, BLEU, CodeBLEU, edit progress)对4种主流大语言模型和4种代表性小规模预训练模型在代码优化任务的表现进行评估,发现大语言模...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>王志鹏;何铁科;赵若愚;郑滔;</author>
@@ -58,7 +58,7 @@
     </item>
     <item>
       <title>异质图表征学习综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdKC1Ce-bKqn79djAAf9YWplv5UHaDohBHlEbHVVrL0TmlPjN9Kv7DNAJ9dZeGgAaYCsDqU1NmGkRzk-JOUFrfOf3b1W1B53sCMvwNOqDQF59x-78q1EIB2tfgi8ULeJzeOMtNQxd0ezmk48zbeMxD6o_JWXK2FAcKc423VCOq7Aw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKeeVJ6jUqbBxghHHrYQ4hxPf_LEj2R_hz89mTe7XiK32puuI6Qdr887JI7Btgwz9D-BrUYjPwgu2bvfsy6ug0AeVQ3wstiy9-JIyiH5AF5-V6Sr-ZcWmE5ihyIK7IUyP7M34rBBtomrrO12rVy5xv83aK2cGPu9LfI1jWkjG6nwWA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>异质图因其能够反映现实世界中实体及其复杂多样的关系,而在诸多领域中扮演着至关重要的角色.异质图表征学习技术,旨在将图中的信息有效地映射到低维空间中,以便捕获和利用节点间深层的语义关联,进而支持节点分类、聚类等下游分析任务.深入调研异质图表征学习的最新研究进展,涵盖方法论和应用实践.首先对异质图的基本概念进行形式化定义,并讨论异质图表征学习的挑战.此外,从浅层模型和深度模型两个角度,系统地回顾当前主...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>李亚聪;刘皓冰;蒋若冰;刘聪;朱燕民;</author>
@@ -66,7 +66,7 @@
     </item>
     <item>
       <title>基于视觉特征解耦的无数据依赖模型窃取攻击方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdKC1Ce-bKqn79djAAf9YWplv5UHaDohBHlEbHVVrL0TmlPjN9Kv7DNG-3m846gSu5jdwPNo06Y-UB7kmV1laz1q1zrlrj6hVZauAp83eEDX9Uzu2kDdGwxr_rMPxU0ZbkbzwfAD2GaogeZ8XY3pdus2tLXwgbMip63TBbYJ-mPPw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKelsTX_S6yGsJaF_-V4qnGI6RyXsnLAf0bKVqRb3YeeIN-Rl4Ybq6JWX-phGty7Cgz5xxfpC1s0NgPZ5Acewq1WJDallh1LvtLXtJWlhzUophZD3aFxpiejGTZoBuzgwrIRJfMQf_GDjcBLrJAr3xCGaIndq42qDFM0sP6dXnsyBA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着深度学习模型安全性和隐私性研究的不断深入,研究者发现模型窃取攻击能够对神经网络产生极大的威胁.典型的数据依赖模型窃取攻击可以利用一定比例的真实数据查询目标模型,在本地训练一个替代模型,从而达到目标模型窃取的目的. 2020年以来,一种新颖的无数据依赖模型窃取攻击方法被提出,仅使用生成模型生成伪造的查询样本便能对深度神经网络开展窃取和攻击.由于不依赖于真实数据,无数据依赖模型窃取攻击具有更严重的...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>张锦弘;刘仁阳;韦廷楚;董云云;周维;</author>
@@ -74,7 +74,7 @@
     </item>
     <item>
       <title>软件设计模式检测技术:现状、挑战和展望</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdsDEc3JFxw8kemFbAybXgivM-n4ZcMCeYcQt46OD3yDi-HVNTrQb0c8WOLvgDvIPApU7u5okD7GY6SbvYcTJiZHXT1VMfKU72Z7tf3mKXLn-4fWNn0vDQYYfUtxIiIKwr-nY9ghN6zygwps1xlXGZ4J-rI_pWu_Jcp4QwHhjwdmw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKelsTX_S6yGsJaF_-V4qnGI6RyXsnLAf0bKVqRb3YeeIN-Rl4Ybq6JWGsu6xUF2Lk9ApcZA2vLKNO2LlO_hkohQlIE4o4IUFe5UDv2F5n6tSpCc4Jh02E5hfDdSo6M_9VRH0IHi6ufHJtOwMnYeW--_9HhD-OyFo_vtmSZPdFs1xA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>设计模式检测是软件工程领域中非常重要的研究课题.国内外很多学者致力于设计模式检测问题的研究与解决,取得了丰硕的研究成果.对当前软件设计模式检测技术进行综述并展望了其前景.首先,简要介绍软件设计模式检测领域的发展历程,讨论并总结了设计模式的检测对象和特征类型,给出了设计模式检测评估指标.然后,总结了设计模式检测技术现有的分类方法,引出了分类方法.根据设计模式检测技术发展的时间线从非机器学习设计模式检...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>王雷;袁野;王国仁;</author>
@@ -82,7 +82,7 @@
     </item>
     <item>
       <title>《软件学报》投稿指南</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdsDEc3JFxw8kemFbAybXgiFClOhU5-5Atdr8hHx0_20LU3dj22GzXM2lDj-Ts91eRc4IKPgbWjY1yc3cS5gO1iydifuuyIGEbDNboRBsgsGAv2vCekIb1sxZGYbYr2sHcNdufC2INleGVr3o4Ec8H-DxtTp4bcxqoZBxnwnnMXaQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKelsTX_S6yGsJaF_-V4qnGI9IPQD26fmgn90iTggWsbCWkm9uwL9wNYtlrDgg94pOnJFPmscgujmHqeue_d80oVcvCUQI0rw435wdxmnHtBw7kY9qfctQN6m5FYwwXau9Y2A5A2_YgKtMVzs3gpMO4qyXgZ2nOquNW9AIaTSEbnbw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&lt;正&gt;《软件学报》是一本刊登计算机软件各领域原创性研究成果的期刊,所刊登的论文均经过严格的同行专家评议.《软件学报》主要面向全球华人计算机软件学者,致力于创办与世界计算机科学和软件技术发展同步的以中文为主的“中文国际软件学术期刊”,为全球华人同行提供学术交流平台.《软件学报》创刊于1990年,由中国科学院软件研究所和中国计算机学会联合主办,已被EICompendex,INSPEC,Abstract...</description>
       <pubDate>Mon, 10 Mar 2025 16:00:00 GMT</pubDate>
       <author />
@@ -90,7 +90,7 @@
     </item>
     <item>
       <title>基于大语言模型的模糊测试研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKc2f1Bjx9ZAR_Bu7P67NxXsiqGWl2px9blDxTOt9gbhObAHJo9SmgmTJFvgl4YVVGKJ02nz29Qqa3kj5IP3wMhC3d6eL7jjM7gP3j_ObgrcJgBLqrYzXJtKzvN_6ePMIBlbZwq58KYLYBcElpn-W3G6ZjQA9YZK4r4htg44PwBiJw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKenL6asRlqzEeuHuOwoi3k6Mvj4mjK6lZwxXx3OnSO6Kb60WGLfWewzv06g8w0mRqmUcODG5Qn7SS1vbtvXC0lUW1DuCagpplnDfgk1qZbPSH1Lj3Afh2U0EUT6A4kdMoAhSb6S1I6JF2fGT_DqWuNZABDdQANWBFhIkoowofhfew==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>模糊测试是一种自动化的软件测试方法,通过向目标软件系统输入大量自动生成的测试数据,以发现系统潜在的安全漏洞、软件缺陷或异常行为.然而,传统模糊测试技术受限于自动化程度低、测试效率低、代码覆盖率低等因素,无法应对现代的大型软件系统.近年来,大语言模型的迅猛发展不仅为自然语言处理领域带来重大突破,也为模糊测试领域带来了新的自动化方案.因此,为了更好地提升模糊测试技术的效果,现有的工作提出了多种结合大语...</description>
       <pubDate>Wed, 05 Mar 2025 16:00:00 GMT</pubDate>
       <author>李岩;杨文章;张翼;薛吟兴;</author>
@@ -98,7 +98,7 @@
     </item>
     <item>
       <title>Java程序资源泄露缺陷检测:传统模型和语言模型的有效性分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKc2f1Bjx9ZAR_Bu7P67NxXsiqGWl2px9blDxTOt9gbhObAHJo9SmgmTumR7mmzduBSpW1_OMaSjSqmE4g_-FibtUDFYJeUIg7_hcP8TB5fHWnq4GPyTOskyVuIFl8Ypz20lwltme3J7l99E45eoqesQQvxaaidDh2xhJuul-aTkNw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKenL6asRlqzEeuHuOwoi3k6Mvj4mjK6lZwxXx3OnSO6Kb60WGLfWewzb5F6Ivbxq3kv5LH3d2r9XDDtuNRxW1yykBezJzM8Jo4itIt-eGa5XAB_xV09FS65X7NyXtx_givOaZy1nlW4qQYJMHHiDKbOradgacOTRirIzV31FRGfcw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>资源泄露是由于有限的系统资源未能及时正确关闭所导致的缺陷,广泛存在于各种语言程序中,且具有一定的隐蔽性.传统的缺陷检测方法通常基于规则和启发式搜索预测软件中的资源泄露.近年来,基于深度学习的缺陷检测方法通过不同的代码表征形式并使用循环神经网络、图神经网络等技术捕获代码中的语义信息.最近的研究显示,语言模型在代码理解和生成等任务中表现出色.然而语言模型针对资源泄露检测这一特定任务上的优势和局限性尚未...</description>
       <pubDate>Wed, 05 Mar 2025 16:00:00 GMT</pubDate>
       <author>刘天阳;叶嘉威;计卫星;刘辉;</author>
@@ -106,7 +106,7 @@
     </item>
     <item>
       <title>高维贝叶斯优化研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdxb7k3KDHfewaYPTnjKfplU_W1PhMwXXGZFjky484FX6Qr-_23rlY45V5Tpjy29-zkZcaJv4ObVxnQoprdoOkSE3NKr8te5X2bjKXobbr86-xxOlvijXeg-dZ0EpyfDj99OuIhDt11M81Fso-oIK1AcDiuj-cgc03TG7a7sWtETg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKc7iU-xYez9YiLHXnG_wk-KH3TUVRzy-CQIVz9Zhde-PRFNpIN_PUa24nQE-Of1f1XyJVKMZuXR7lKJIO7XvQ8T4XVqtzSbGk0MTazkrpz2vBN6xbKeG7ovE7SrdQr2FiJ6LlTOD4GgpAGgzfHDQwjCeUeb23N3Q2YVUe8UHe--YA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>贝叶斯优化是一种优化黑盒函数的技术,高效的样本利用率使其在众多科学和工程领域中得到了广泛应用,如深度模型调参、化合物设计、药物开发和材料设计等.然而,当输入空间维度较高时,贝叶斯优化的性能会显著下降.为了克服这一限制,许多研究对贝叶斯优化方法进行了高维扩展.为了深入剖析高维贝叶斯优化的研究方法,根据不同工作的假设与特征将高维贝叶斯优化方法分为3类:基于有效低维度假设的方法、基于加性假设的方法以及基...</description>
       <pubDate>Wed, 05 Mar 2025 16:00:00 GMT</pubDate>
       <author>陈泉霖;陈奕宇;霍静;曹宏业;高阳;李栋;郝建业;</author>
@@ -114,7 +114,7 @@
     </item>
     <item>
       <title>提升隐式场景下短语视觉定位的因果建模方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdxb7k3KDHfewaYPTnjKfplU_W1PhMwXXGZFjky484FX2FjJSz0l3wNFidgQydyKSjZbrtrLK9jgXGdYtPi2VH2zO1d5XjB5p5PK9SHmnpojS5eyUdj3ew1HMgrVysSdITgEHMPZzRhHrXn4x6OWXHJv9gODI6Yvwz1JwzyYglczA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKc7iU-xYez9YiLHXnG_wk-KH3TUVRzy-CQIVz9Zhde-Pc6rrx1XCvgfa5VsPuTb9rwxhaV_raFUGuxctdYa8IByOS57OSWZBpmCEYuBxTRsI4g_w3W09jfoF_C4Kao3cEqhkWhnaWTVwIGyhGMTv1uoXi9QIDVkfO8Z7uw4krghPQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>短语视觉定位是多模态研究中一个基础且重要的研究任务,旨在预测细粒度的文本短语与图片区域的对齐关系.尽管已有的短语视觉定位方法已经取得了不错的进展,但都忽略了文本中的短语与其对应图片区域的隐式对齐关系(即隐式短语-区域对齐关系),而预测这种关系可以有效评估模型理解深层多模态语义的能力.因此,为了有效建模隐式短语-区域对齐关系,提出一种隐式增强的因果建模短语视觉定位方法.该方法使用因果推理中的干预策略...</description>
       <pubDate>Wed, 26 Feb 2025 16:00:00 GMT</pubDate>
       <author>赵嘉宁;王晶晶;罗佳敏;周国栋;</author>
@@ -122,7 +122,7 @@
     </item>
     <item>
       <title>基于多元实体对齐的视觉-语言多模态预训练</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKcPRaf_S6y2lpvWttzl5ymtyehlfB53LiYqjthjWVakTJD_b3p5wd-4I72ZvSwc-5Hk_hiV1PVQB6iDf_FNQq8tXxXvkZmqNZ6yVumA0ICncbkYtxM5xQjPIZ07MM7dFSTc9SfFYw-kRUoCsIe7QnhG9_7pk5MbFrq_9bHeQi8SEw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKetC84CUFMJuxrvBZKUbmrIu72hnySuf1omrKGmG_MEgBf4O9uJdB_-xUkAFdWmD3M7FRh3ZogWYrSyRUn5mK39DYAALmWt5xjrxxy9z7Drl0E_D7HZNVTXcTk_QpKR396IIY6wIMDPJBpnrrwMUB1bTUoE6AhNtBmrkfS9ImkbaQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>视觉-语言预训练(visual-language pre-training, VLP)旨在通过在大规模图像-文本多模态数据集上进行学习得到强大的多模态表示.多模态特征融合、对齐是多模态模型训练的关键挑战.现有的大多数视觉-语言预训练模型对于多模态特征融合、对齐问题主要方式是将提取的视觉特征和文本特征直接输入至Transformer模型中.通过Transformer模型中的attention模块进行...</description>
       <pubDate>Wed, 26 Feb 2025 16:00:00 GMT</pubDate>
       <author>李登;武阿明;韩亚洪;</author>
@@ -130,7 +130,7 @@
     </item>
     <item>
       <title>面向集值数据的孪生支持函数机</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKcPRaf_S6y2lpvWttzl5ymtyehlfB53LiYqjthjWVakTJD_b3p5wd-4YbmULHiDpke02uDxuDvQ93rCs7LFuVcTt0vRUT3E3FbLdFXvnVUf48MkyV2zheKNdz7cLzYD9AWsRB4V_LuHkQCTcZxplBU4mLYzdHbemuhSurzauzfqNw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKetC84CUFMJuxrvBZKUbmrIu72hnySuf1omrKGmG_MEgBf4O9uJdB_-2SQF5qao-QxT_MuPcJ2-3FxxcxpsmDiYVsJq_59_FG3LqeV1ls4UUBwpRXVFo8n_oUSj65jb5IyRhbNTD4N9BXmfNYaHdO2atgg6eoIYemmCO4DohEDKow==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>孪生支持向量机(twin support vector machine, TSVM)能有效地处理交叉或异或等类型的数据.然而,当处理集值数据时, TSVM通常利用集值对象的均值、中值等统计信息.不同于TSVM,提出能直接处理集值数据的孪生支持函数机(twin support function machine, TSFM).依据集值对象定义的支持函数, TSFM在巴拿赫空间取得非平行的超平面.为了抑...</description>
       <pubDate>Wed, 26 Feb 2025 16:00:00 GMT</pubDate>
       <author>梁志贞;闵玉寒;丁世飞;</author>
@@ -138,7 +138,7 @@
     </item>
     <item>
       <title>中文对抗攻击下的ChatGPT鲁棒性评估</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdkhRvCvioWO5bGKqJWUEosODWLLN_djWrNDAqEOJVO43pqsGLvLxquFsriYKIcwXafb9GougPkfOxGfB5i463IACRIYkBIpKdHa5SCEVuuvHeSLLF4LP7SRqNK2AYvBnSpwKuUubOmxgOYoIjOgs9vkIy9rEz_T6jqg-QUyUFKLg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKfA0l1n100jqwNAZfgDf_Y5FpWNq36LCOHYLR0MV_s5KaCEcFlXod9MeLOnzLcxzFmpbwwmzdZFbjblAVjIxleebs8ojdYTQnDqLAQBHchi0rWZyPNhwSzRWyloeCXlYIlSVI-n8RdZBNLFeY3xji53RNGs0zlBMmoHJmsZWOVjtQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>以ChatGPT为代表的大语言模型(large language model, LLM)因其强大的自然语言理解和生成能力在各领域中得到广泛应用.然而,深度学习模型在受到对抗样本攻击时往往展现出脆弱性.在自然语言处理领域中,当前对抗样本生成方法的研究通常使用CNN类模型、RNN类模型和基于Transformer结构的预训练模型作为目标模型,而很少有工作探究LLM受到对抗攻击时的鲁棒性并量化LLM鲁棒...</description>
       <pubDate>Tue, 25 Feb 2025 16:00:00 GMT</pubDate>
       <author>张云婷;叶麟;李柏松;张宏莉;</author>
@@ -146,7 +146,7 @@
     </item>
     <item>
       <title>利用伪重叠判定机制的多层循环GCN跨域推荐</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdkhRvCvioWO5bGKqJWUEosODWLLN_djWrNDAqEOJVO43pqsGLvLxqu0cpsrktEkyauyfejGIHW0p3F8IJox6HBTM1YKcuqvkv2-i2C-eY_CXs9F7GQbS0Et5WUjAcjSCgBqj4TN9TwWcKqgScBLgYapzyuszoiwzdrvpuzkMBQhw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKfA0l1n100jqwNAZfgDf_Y5FpWNq36LCOHYLR0MV_s5KaCEcFlXod9MDOVh7p-z2lRZ-2cDpAO8qcgzM-_yWQknhSjv9HNbXVhkl-ojq9n50u9AojdYRiclKPAxNTjwTMtGZGVtO7aiKv6LuGIMjtsdss8x4wMTaCe6SU0DzMwrfw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>跨域推荐(cross-domain recommendation, CDR)通过将密集评分辅助域中的用户-项目评分模式迁移到稀疏评分目标域中的评分数据集,以缓解冷启动现象,近年来得到广泛研究.多数CDR算法所采用的基于单域推荐的聚类方法未有效利用重叠信息,无法充分适应跨域推荐,导致聚类结果不准确.在跨域推荐中,图卷积网络方法(graph convolution network, GCN)可充分利用...</description>
       <pubDate>Tue, 25 Feb 2025 16:00:00 GMT</pubDate>
       <author>钱忠胜;王亚惠;俞情媛;范赋宇;付庭峰;</author>
@@ -154,7 +154,7 @@
     </item>
     <item>
       <title>基于群体情绪稳态化的社交网络谣言检测方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKe_lx1w7d9ee6ITDocqv4ydMNVS94GJ9sAlHvt6wbsrM89X7ZK8hp_VFfRK7ifuT7U_etrS57yTOuff5b7UkXehmFt47-MEgbDPu-8vwS9OspUGQyS9LqEzzMucjCcoOqvxc2Ahq6WpZ994hU6neLCiNfMXSMUqtnDjVmh1N1S0FQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKfaNWhL7ix6CkvM9NmxeXwH7KX2B6JZAd-OoFsyR5a8o1XYSU8AT5aS46SaHfMnkZ8zxw8tGsnuI9TRq4u4mPpR3EnoccOUS2jYiXGMx95VeXuSvIKcMxPaDUA9aVne596B5atgr6sqLB5PG1Ovut0tWLCL1x5ICDylbvALWzos6Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>网络信息来源众多、鱼龙混杂,及时、准确地判断其是否为谣言是社交媒体认知域研究的关键问题.先前的研究大多侧重于谣言的文本内容、用户特征或局限于传播模式中的固有特征,忽略了用户参与事件讨论而产生的群体情绪及其产生且隐藏于谣言传播的情绪稳态特征的关键线索.提出一种以群体情绪稳态为导向,融合时序和空间稳态特征的社交网络谣言检测方法,该方法基于谣言传播中的文本特征和用户行为,将群体情绪的时序与空间关系稳态化...</description>
       <pubDate>Tue, 25 Feb 2025 16:00:00 GMT</pubDate>
       <author>殷茗;乔胜;陈威;姜继娇;</author>
@@ -162,7 +162,7 @@
     </item>
     <item>
       <title>正则图上对称双态自旋系统相关的细密度二分定理</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKe_lx1w7d9ee6ITDocqv4ydMNVS94GJ9sAlHvt6wbsrM89X7ZK8hp_VYdYmPFFEMqhBg6nnqrxfimhjCznCUCUzori2EUNYVrZ5R7Ex6MTMaSdBjt4ywnwE2EquvhRZKba_vNB2uwDAAiJOgmTke1NbByntRVgqIoXFl4UdRZrelw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKfaNWhL7ix6CkvM9NmxeXwH7KX2B6JZAd-OoFsyR5a8o1XYSU8AT5aSHWiQjJZReNH0FFwRZ2oZmW137hpn_Ts8MRKiLrVt9eAIIJ0smjjH-SGirgN92ZUOGePlYKykfTR5WsRvgnPSVLlnPu_4SwsnIOq-yDF_hNz_-D4lAZ7wyA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>讨论正则图上的对称双态自旋系统的配分函数计算复杂性.利用计数指数时间假设(#ETH)和随机指数时间假设(rETH),将该问题类的经典二分定理,细化到指数型二分定理,又称细密度二分定理.换而言之,证明满足给定易解条件时,该问题可在多项式时间内求解;否则,#ETH成立时,该问题没有亚指数时间算法.还针对平面图限制下已有插值方法在构造根号亚指数时间归约时失效的问题,提出两种解决方案,并利用这两种方案探讨...</description>
       <pubDate>Tue, 25 Feb 2025 16:00:00 GMT</pubDate>
       <author>刘莹;</author>
@@ -170,7 +170,7 @@
     </item>
     <item>
       <title>智能化芯片设计程序测试研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKf_vusJMURopACtZWdEU03HmI6-2m1USD-fetjAwtaxQDESq4yNkXzoLbSaqEP86ribUZNeyQe1V4bBT-_Fi8uSYq7xGX35RfPwLYxN7R_DIOQNSuQ3D9S_CfWcKv5eM1ozgfeaOuFVn4MgBBPtq9g_kbRKySn3eNPalSdlay1PFA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=u3gpgSR0TKdgoXWlJQV1zWG1Luqc6PChMU3ks0jhaw3w9_SgMK2c1VUz7V02NzdPemcIMHg8VlFo1Em9k0w7xgpZ4RbRQbEZBzSngv6E3ong8indkhqsM-sQvGuqWYB96fCiiMO4pFsFawmE8jgo-0t7TmQ13b2eJC8IeO4Z2LED-gfCPPkzpQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>在当今智能化的时代背景下,芯片作为智能电子设备的核心组件,在人工智能、物联网、5G通信等诸多领域发挥着关键作用,保障芯片的正确性、安全性和可靠性至关重要.在芯片的开发流程中,开发人员首先需要利用硬件描述语言,将芯片设计实现成软件形式(即芯片设计程序),然后再进行物理设计并最终流片(即生产制造).作为芯片设计制造的基础,芯片设计程序的质量直接影响了芯片的质量.因此,针对芯片设计程序的测试具有重要研究...</description>
       <pubDate>Tue, 25 Feb 2025 16:00:00 GMT</pubDate>
       <author>李晓鹏;闫明;樊兴宇;唐振韬;开昰雄;郝建业;袁明轩;陈俊洁;</author>
