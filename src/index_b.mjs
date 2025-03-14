@@ -14,8 +14,7 @@ const __dirname = dirname(__filename);
 
 // 基本配置
 const app = express();
-const port = 3000;
-
+const port = process.env.PORT || 3001; // 使用环境变量设置端口，避免冲突
 
 // CUP 转发rss_id 从 1-36
 const cupRssId = [...Array(36).keys()].map(x => x + 1);
