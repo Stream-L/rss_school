@@ -13,9 +13,9 @@ const cup_rss = async (url) => {
   try {
     console.log('开始获取数据:', url);
     const response = await axios.get(url);
-    console.log('数据获取成功');
+    // console.log('数据获取成功');
     const data = response.data;
-    console.log('开始解析数据');
+    // console.log('开始解析数据');
 
     const rssId = new URL(url).searchParams.get('rss_id');
     const id = rssId;
@@ -48,10 +48,10 @@ const cup_rss = async (url) => {
 
     for (let i = 0; i < 20; i++) {
       // i转字符串
-      console.log('i:', i);
+      //console.log('i:', i);
       const ii = i.toString();
       const item = data.d[ii];
-      console.log('item:', item);
+      //console.log('item:', item);
       if (!item) {
         console.log('条目数据解析失败，item 为空');
         continue;
@@ -66,11 +66,11 @@ const cup_rss = async (url) => {
         author:departName,
         pubDate: formatedpubdate
       };
-      console.log('formatedItem:', formatedItem);
+      //console.log('formatedItem:', formatedItem);
       //
       rss.item(formatedItem);
     }
-    console.log('生成的 RSS 数据:', rss);
+    //console.log('生成的 RSS 数据:', rss);
     return rss;
   } catch (error) {
     console.error('数据获取或解析失败:', error);
@@ -88,7 +88,7 @@ const fetchAndSaveRSS = async (domain,id) => {
     const sourceUrl = `http://wschool.cup.edu.cn/rss/wap/rssinfo/search?p=1&rss_id=${id}`;
     const feed = await cup_rss(sourceUrl);
     feedxml = feed.xml({indent: true });
-    console.log('!!!!!RSS XML:', feedxml);
+    //console.log('!!!!!RSS XML:', feedxml);
   
     filePath = path.join(__dirname, `cup_rss_${id}.rss`);
   }
@@ -99,7 +99,7 @@ const fetchAndSaveRSS = async (domain,id) => {
     const response = await axios.get(sourceUrl);
     // 生成文件路径
     const data = response.data;
-    console.log('data:', data);
+    //console.log('data:', data);
     // 确保是xml格式
     if (!data.startsWith('<?xml')) {
       console.error('数据不是xml格式');
@@ -108,7 +108,7 @@ const fetchAndSaveRSS = async (domain,id) => {
 
     // 将数据写入文件
     feedxml = data;
-    console.log('data:', data);
+    //console.log('data:', data);
     filePath = path.join(__dirname, `cnki_rss_${id}.rss`);
   }
 
@@ -130,12 +130,12 @@ const fetchAndSaveRSS = async (domain,id) => {
   }
   // 根据follow.csv文件中的file,followInfo,对file的channel description 追加 followInfo
   const followInfo = fs.readFileSync(path.join(__dirname, 'follow.csv'), 'utf8').split('\n').filter(x => x.trim() !== '').map(x => x.split(',')[1]).join('\n');
-  console.log('followInfo:', followInfo);
+  //console.log('followInfo:', followInfo);
   // 如果文件名存在于follow.csv中，将followInfo追加到description中
   if (fs.existsSync(filePath)) {
       // 从feedxml中提取description
     const description = feedxml.match(/<description>(.*?)<\/description>/)[1];
-    console.log('description:', description);
+    //console.log('description:', description);
     // 将description和followInfo拼接
     const newDescription = description + '\n' + followInfo;
     console.log('newDescription:', newDescription);

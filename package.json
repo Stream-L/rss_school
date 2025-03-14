@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.mjs",
     "dev": "nodemon src/index.mjs",
-    "build": "node src/index.mjs"
+    "build": "node src/index_b.mjs"
   },
   "dependencies": {
     "axios": "^0.21.1",
