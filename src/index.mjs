@@ -195,4 +195,5 @@ app.get('/rss/cnki/:id', async (req, res) => {
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
   console.log('部署完成');
+  process.exit(0); // 返回状态码 0
 });
