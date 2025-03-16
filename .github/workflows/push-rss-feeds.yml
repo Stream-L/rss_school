@@ -1,9 +1,6 @@
 name: Push RSS Feeds
 
 on:
-  # 定时触发，每天 12 点和 17 点
-  schedule:
-    - cron: '0 12,17 * * *'
   # 手动触发
   workflow_dispatch:
 
